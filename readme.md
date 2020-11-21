@@ -1,1 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dentarius)](https://github.com/anuraghazra/github-readme-stats)
+## UWP, WPF, Xamarin
+
+### simple, minimalistic
+
